@@ -47,11 +47,11 @@ The dataset contains **777 observation**s with the following 18 variables:
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+     git clone <your-repo-url>
 ```
 2. Create and activate a virtual environment (Recommended):
 ```bash
-    python -m venv venv
+     python -m venv venv
 ```
    - Linux/macOS:
      ```bash
@@ -59,15 +59,15 @@ git clone <your-repo-url>
      ```
    - Windows:
      ```bash
-        venv\Scripts\activate
+          venv\Scripts\activate
      ```
 3. Install dependencies:
  ```bash
-pip install <name of libraries>
+      pip install <name of libraries>
 ```
 3. Run the main Python script:
  ```bash
-python KMeans Clustering.py
+      python KMeans Clustering.py
 ```
 
 ## Notes
